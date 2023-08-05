@@ -1,0 +1,7 @@
+2023-08-06 01:01:33.390352 - Initialized conversion of CBT1026
+2023-08-06 01:01:33.534577 - Received CBT.V505.FILE1026.PDS from FILE1026.XMI 
+2023-08-06 01:01:33.536727 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE1026.PDS, moved to PDS/$$$#DATE
+2023-08-06 01:01:33.537865 - Found @FIL1026.txt (text/plain) in CBT.V505.FILE1026.PDS, moved to PDS/@FIL1026
+2023-08-06 01:01:33.537873 - Found HTML.bin containing application/octet-stream, moved to PDS/HTML
+2023-08-06 01:01:33.541538 - De-xmi-ed PDF to CBT1026/docs/PDF.pdf
+2023-08-06 01:01:33.542487 - Found PGMLIST.txt (text/plain) in CBT.V505.FILE1026.PDS, moved to PDS/PGMLIST
