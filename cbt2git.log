@@ -1,6 +1,6 @@
-2025-04-14 23:21:27.371553 - Received CBT.V508.FILE1026.PDS from FILE1026.XMI 
-2025-04-14 23:21:27.373050 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE1026.PDS, moved to PDS/$$$#DATE
-2025-04-14 23:21:27.373293 - Found @FIL1026.txt (text/plain) in CBT.V508.FILE1026.PDS, moved to PDS/@FIL1026
-2025-04-14 23:21:27.375922 - Found HTML.bin (application/octet-stream) in CBT.V508.FILE1026.PDS, moved to PDS/HTML
-2025-04-14 23:21:27.377874 - Found PDF.pdf (application/pdf) in CBT.V508.FILE1026.PDS, moved to docs/PDF.pdf
-2025-04-14 23:21:27.378083 - Found PGMLIST.txt (text/plain) in CBT.V508.FILE1026.PDS, moved to PDS/PGMLIST
+2025-04-15 18:07:46.402510 - Received CBT.V508.FILE1026.PDS from FILE1026.XMI 
+2025-04-15 18:07:46.403731 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE1026.PDS, moved to PDS/$$$#DATE
+2025-04-15 18:07:46.403810 - Found @FIL1026.txt (text/plain) in CBT.V508.FILE1026.PDS, moved to PDS/@FIL1026
+2025-04-15 18:07:46.406548 - Found HTML.bin (application/octet-stream) in CBT.V508.FILE1026.PDS, moved to PDS/HTML
+2025-04-15 18:07:46.408486 - Found PDF.pdf (application/pdf) in CBT.V508.FILE1026.PDS, moved to docs/PDF.pdf
+2025-04-15 18:07:46.408684 - Found PGMLIST.txt (text/plain) in CBT.V508.FILE1026.PDS, moved to PDS/PGMLIST
